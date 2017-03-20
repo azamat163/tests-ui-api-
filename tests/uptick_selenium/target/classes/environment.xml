@@ -1,0 +1,24 @@
+<qa:environment xmlns:qa="urn:model.commons.qatools.yandex.ru">
+    <id>2a54c4d7-7d79-4615-b80d-ffc1107016a1</id>
+    <name>Allure Report</name>
+    <parameter>
+        <name>browser</name>
+        <key>Chrome version</key>
+        <value>54.0.2840.98</value>
+    </parameter>
+    <parameter>
+        <name>url</name>
+        <key>Test stand</key>
+        <value>https://dnevnik.mos.ru</value>
+    </parameter>
+    <parameter>
+        <name>chromedriver version</name>
+        <key>Chromedriver version</key>
+        <value>2.24.417412</value>
+    </parameter>
+    <parameter>
+        <name>java</name>
+        <key>JAVA_HOME</key>
+        <value>1.8.0_77</value>
+    </parameter>
+</qa:environment>  

@@ -1,0 +1,6 @@
+{
+  "chromedriverOS": "/src/main/resources/chromedriver",
+  "chromedriverWin": "/src/main/resources/chromedriver.exe",
+  "chromedriverUnix": "/src/main/resources/chromedriverlinux",
+  "baseUrl": "http://stable.ezd.altarix.org/"
+}
